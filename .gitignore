@@ -16,3 +16,6 @@
 /tmp
 
 .DS_Store
+
+# Ignore npm error logs
+npm-debug.log
